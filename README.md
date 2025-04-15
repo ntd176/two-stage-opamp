@@ -7,7 +7,7 @@ My simulation results based on the design specifications are presented in the ta
 | **Av** (Gain)          | > 3000 V/V         | 2400 V/V              |
 | **GB** (Gain Bandwidth)| 5 MHz              | 19 MHz                |
 | **SR** (Slew Rate)     | > 10 V/μs          | Rise: 5.08 V/μs  <br> Fall: 2.54 V/μs |
-| **PM** (Phase Margin)  | 60°                | 115°                  |
+| **PM** (Phase Margin)  | 60°                | 62°                  |
 | **V<sub>out</sub> Range**  | -0.5 V → 0.5 V     | -0.3 V → 0.7 V        |
 | **ICMR**               | -0.5 V → 0.5 V     | -0.8 V → 0.7 V        |
 | **P<sub>diss</sub>** (Power Dissipation) | < 3 mW            | 1.44018 mW           |
